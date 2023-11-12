@@ -14,10 +14,7 @@ d) negação de (vinte é maior que cinquenta OU cinquenta é maior que sessenta
 Exemplo:
 
 ```jsx
-const operacao1 = 20 < 50 && 50 > 90;
-console.log(operacao1);
-/*false, porque 50 não é maior que 90, consequentemente temos true && false,
-que devolve false*/
+
 ```
 
 ### Parte 2
